@@ -15,7 +15,7 @@ The official documentation (javadoc) can be found [here](https://zmohling.github
 </p>
 
 ## `push()`
-When pushing elements to the linked priority queue, we have two special cases. If `newElement` is the first in the chain *(Figure 2.0)* and if `newElement` is larger than the first element in the chain, `firstNode.getElement()` *(Figure 2.1)*.
+When pushing elements to the linked priority queue, we have two special cases. If `newElement` is the first in the chain *(Figure 2.0)* and if `newElement` has a higher priority than the first element in the chain, `firstNode.getElement()` *(Figure 2.1)*.
 
 &nbsp;
 
