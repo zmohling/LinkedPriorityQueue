@@ -6,12 +6,12 @@ The official documentation (javadoc) can be found [here](https://zmohling.github
 
 ## `LinkedPriorityQueue`
 <p align="center"> 
-<img src="https://s3.us-east-2.amazonaws.com/beck.ai/publicimages/figure1.0.png">
+<img src="http://beck.ai/publicimages/figure1.0.png">
 </p>
 
 ## `Node`
 <p align="center"> 
-<img src="https://s3.us-east-2.amazonaws.com/beck.ai/publicimages/figure1.1.png">
+<img src="http://beck.ai/publicimages/figure1.1.png">
 </p>
 
 ## `push()`
@@ -20,13 +20,13 @@ When pushing elements to the linked priority queue, we have two special cases. I
 &nbsp;
 
 <p align="center"> 
-<img src="https://s3.us-east-2.amazonaws.com/beck.ai/publicimages/figure2.0.png">
+<img src="http://beck.ai/publicimages/figure2.0.png">
 </p>
 
 &nbsp;
 
 <p align="center"> 
-<img src="https://s3.us-east-2.amazonaws.com/beck.ai/publicimages/figure2.1.png">
+<img src="http://beck.ai/publicimages/figure2.1.png">
 </p>
 
 &nbsp;
@@ -39,7 +39,7 @@ If this is not a special case, instantiate a Node called `currentNode` reference
 &nbsp;
 
 <p align="center"> 
-<img src="https://s3.us-east-2.amazonaws.com/beck.ai/publicimages/figure2.2.gif">
+<img src="http://beck.ai/publicimages/figure2.2.gif">
 </p>
 
 
@@ -49,5 +49,5 @@ Since the elements are prioritized when they're pushed into the queue, the highe
 &nbsp;
 
 <p align="center"> 
-<img src="https://s3.us-east-2.amazonaws.com/beck.ai/publicimages/figure3.0.png">
+<img src="http://beck.ai/publicimages/figure3.0.png">
 </p>
